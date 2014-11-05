@@ -1,0 +1,23 @@
+{
+  "name": "snapci-npm-test",
+  "version": "0.0.0",
+  "description": "Repo to play with snapci and npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidSouther/snapci-npm-test"
+  },
+  "keywords": [
+    "deployment",
+    "snapci"
+  ],
+  "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidSouther/snapci-npm-test/issues"
+  },
+  "homepage": "https://github.com/DavidSouther/snapci-npm-test"
+}
